@@ -4,4 +4,4 @@ Well be using an e-commerce platform dataset to perform RFM(recency, frequency, 
 
 The following guides stipulates the process step by step.
 
-**Step 1: Import the necessary libraries **
+**Step 1: Import the necessary libraries**
