@@ -6,3 +6,4 @@ pio.templates.default = "plotly_white"
 
 data = pd.read_csv("rfm_data.csv")
 print(data.head())
+
